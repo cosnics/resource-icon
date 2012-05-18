@@ -19,7 +19,7 @@ m2t
 m2ts
 m4v
 -- mkv
-mov
+-- mov
 mp2
 mp2v
 mp4
