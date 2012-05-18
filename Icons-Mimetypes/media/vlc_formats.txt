@@ -18,7 +18,7 @@ m2v
 m2t
 m2ts
 m4v
--- mkv
+mkv
 mov
 mp2
 mp2v
@@ -38,10 +38,10 @@ mxf
 mxg
 nsv
 nuv
--- ogg
--- ogm
--- ogv
--- ogx
+ogg
+ogm
+ogv
+ogx
 ps
 rec
 rm
