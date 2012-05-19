@@ -4,7 +4,7 @@
 3gpp
 amv
 asf
-avi
+-- avi
 bin
 divx
 drc
@@ -13,24 +13,24 @@ f4v
 -- flv
 gxf
 -- iso
-m1v
-m2v
+-- m1v
+-- m2v
 m2t
 m2ts
-m4v
+-- m4v
 -- mkv
 -- mov
 mp2
 mp2v
-mp4
+-- mp4
 mp4v
 mpa
 mpe
-mpeg
-mpeg1
-mpeg2
+-- mpeg
+-- mpeg1
+-- mpeg2
 mpeg4
-mpg
+-- mpg
 mpv2
 mts
 mtv
@@ -49,9 +49,9 @@ rmvb
 tod
 ts
 tts
-vob
+-- vob
 vro
-webm
+-- webm
 -- wmv
 
 
