@@ -3,20 +3,20 @@
 3gp2
 3gpp
 amv
-asf
+-- asf
 -- avi
 bin
 divx
 drc
 dv
-f4v
+-- f4v
 -- flv
 gxf
 -- iso
 -- m1v
 -- m2v
 m2t
-m2ts
+-- m2ts
 -- m4v
 -- mkv
 -- mov
@@ -32,13 +32,13 @@ mpe
 mpeg4
 -- mpg
 mpv2
-mts
+-- mts
 mtv
 mxf
 mxg
 nsv
 nuv
-ogg
+-- ogg
 ogm
 -- ogv
 ogx
