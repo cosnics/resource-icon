@@ -6,7 +6,7 @@ amv
 -- asf
 -- avi
 bin
-divx
+-- divx
 drc
 dv
 -- f4v
